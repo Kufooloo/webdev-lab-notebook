@@ -5,11 +5,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Exercise 04 - Form</title>
+    <style>
+      input[type="radio"],
+      input[type="checkbox"] {
+        float: left;
+        margin-right: 10px;
+      }
+    </style>
   </head>
   <body>
     <main>
       <form action="/submit">
         <!-- Add your code here -->
+        <h1>Form</h1>
+        <br /><br />
+        <label for="name">Name</label>
+        <input
+          type="text"
+          id="name"
+          name="Full Name"
+          placeholder="First Name"
+        /><br />
+        <label for="email">Email</label>
+        <input
+          type="text"
+          id="email"
+          name="name@pdx.edu"
+          placeholder="name@pdx.edu"
+        /><br /><br />
+
+        <fieldset>
+          <legend>Favorite Character</legend>
+          <label for="spongebob">Spongebob</label>
+          <input type="radio" name="spongebob" id="spongebob" /><br />
+          <label for="Sandy">Sandy</label>
+          <input type="radio" name="sandy" id="sandy" /><br />
+          <label for="patrick">Patrick</label>
+          <input type="radio" name="patrick" id="patrick" /><br />
+        </fieldset>
+        <br />
+        <fieldset>
+          <legend>Are you a fan of the show?</legend>
+          <label for="epsiodes">Yes, I have watched all the episodes!</label>
+          <input name="episodes" id="episodes" type="checkbox" /><br />
+          <label for="memes">Yes, it's got the best memes.</label>
+          <input name="memes" id="memes" type="checkbox" /><br />
+        </fieldset>
       </form>
     </main>
   </body>
