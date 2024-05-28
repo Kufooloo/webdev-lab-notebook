@@ -11,11 +11,43 @@
 /* Use attribute selectors for the first part of the exercise */
 
 li[class] {
-  color: var(--red);
+  color: var(--green);
+}
+
+li[class="dog"] {
+  color: magenta;
+}
+
+li[id="cat"] {
+  color: teal;
+}
+
+li[class="parrot"] {
+  color: green;
+}
+
+li[class="donkey"] {
+  color: royalblue;
+}
+
+li[class="hedgehog"] {
+  color: magenta;
+}
+
+li[class="cat dog parrot"] {
+  color: royalblue;
 }
 
 /* Use descendant, child, and sibling selectors for the second part */
 
 section li {
-  color: var(--green);
+  color: green;
+}
+
+.first ~ li {
+  color: magenta;
+}
+
+.second + li {
+  color: royalblue;
 }
