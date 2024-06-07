@@ -42,3 +42,23 @@ This lab I did look at the video because the images in the files didnt work. I w
 This was a very helpful lab, though the information itself isnt actually used for any of the big home works so I didn't really use it.
 
 In terms of things that could have been explained better, I didnt really know what I was supposed to be doing until I watched the videos. In terms of things that I need to help me understand this weeks content a little more, just more content on bootstrap in general would be good, anything about what it's benefits over other things are.
+
+### Javascript
+
+This lab wasnt too bad as the others as I've done a lot of work with javascript in other classes in the term. I did have to look at the video for the final portion of the lab as I was having some issues.
+
+This was a good review on javascript for me, and specifically the 6th exercise was good because I want to get familiar with working with apis, and this was a good step in that direciton.
+
+I feel like the final portion could have been explained a little better, but maybe thats because im not a GOT guy and I was having trouble reading the data and knowing if it was correct without comparing it line by line.
+
+I would have like some more exercises on apis and working through data while displaying it on a page but I was happy with what was here.
+
+### Jquery
+
+This lab was basically the opposite of my javascript lab, I've never used jqoeury before so doing it was a pain even when I already had the code on how to do it written in front of me. I basically just followed the video for this one.
+
+This section was helpful, and the first section arguably was the most helpful this was where I really got the fundamental idea of how to write jquery, but overall im not really sure how helpful this lab is.
+
+THere wasnt much that really could have been explained better, I understood exactly what was being said.
+
+I think some new exercises could have helped, instead of just recreating old ones. Especially ones with api to tie in more connections.
