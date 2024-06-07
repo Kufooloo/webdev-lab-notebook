@@ -21,3 +21,7 @@ form > * {
 .box {
   height: 160px;
 }
+
+h2 {
+  font-size: 0.83em;
+}

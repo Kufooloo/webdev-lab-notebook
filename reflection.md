@@ -34,3 +34,11 @@ This lab was probably the worst one to do after I had already finished the homew
 This lab was really helpful in understanding how to do the homeowork, my big issue is I did it after the homework was due so that was a little diminishedsd.
 
 I don't think anything needed to be explained better, @media queries are still a little rough for me but nothing too bad. I think overall some more media queries would be helpful but thats about it.
+
+### Bootstratp
+
+This lab I did look at the video because the images in the files didnt work. I would not have been able to complete these on my own anyway, I had a tough time.
+
+This was a very helpful lab, though the information itself isnt actually used for any of the big home works so I didn't really use it.
+
+In terms of things that could have been explained better, I didnt really know what I was supposed to be doing until I watched the videos. In terms of things that I need to help me understand this weeks content a little more, just more content on bootstrap in general would be good, anything about what it's benefits over other things are.
